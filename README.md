@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Baheet18
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning excel, Power Bi, SQL and python
-- 💞️ I’m looking to collaborate on building a tech community for techies
-- 📫 How to reach me @adenijibaheet@gmail.com
+Hey there, 
 
-<!---
-Baheet18/Baheet18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently pursuing a career in Data Analysis. This is why I created this page, I will be listing all my projects here.
+
+These days, I am honing my skills in; Excel, SQL , Python and Tableu.
+
+Learning One tool at a time. 
+
+  🤝🏾 Here is how to reach me
+  
+Twitter: https://twitter.com/Adeniji_Baheet?t=RQm5bJomYctWe6TUV1QsnQ&s=09
